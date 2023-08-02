@@ -9,7 +9,7 @@ namespace osu.Game.Rulesets.Catch.Scoring
 {
     public partial class CatchScoreProcessor : ScoreProcessor
     {
-        private const int combo_cap = 200;
+        private const int combo_cap = 300;
         private const double combo_base = 4;
 
         public CatchScoreProcessor()
